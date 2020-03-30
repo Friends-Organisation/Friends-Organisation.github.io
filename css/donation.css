@@ -1,0 +1,45 @@
+body {
+	margin:0;
+	background-color:#7f8c8d;
+}
+#logo1 {
+	width:100%;
+	height:auto;
+	float:left:
+}
+#logo {
+	width:80%;
+	height:200px;
+	margin:auto;
+	margin:0px 10%;
+}
+/* menu bar */
+.menubar {
+	width:20%;
+	height:60px;
+	background-color:#2c3e50;
+	float:left;
+}
+/* menu bar option */
+.menu {
+	display:block;
+	color:#ecf0f1;
+	text-align:center;
+	position:relative;
+	top:20px;
+	text-decoration:none;
+	
+}
+h1 {
+	color:#ecf0f1;
+}
+#content{
+	margin:10px;
+}
+.text {
+	color:#ecf0f1;
+}
+td{
+	color:#ecf0f1;
+}
+
